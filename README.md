@@ -1,1 +1,1 @@
-# fake-news-classifier-master
+# End-to-end-real-and-fake-news-classifier
